@@ -6,8 +6,8 @@ Be sure to have at the begining:
 
 2-3 sets of quetions, 30 min each one.
 
-Main Idea Questions 
-===================
+Main Idea strategy 
+==================
 
 It’s usually the first question that you’ll find after the listening and it has the word “mainly” in it.
 
@@ -30,3 +30,58 @@ Type 3: Confusing
   In this kind of listening, there is no definite description in the beginning. So, you must look at your overall notes 
   and notice the key concept that is repeated throughout. These types are tough because wrong answers can be very 
   appealing (which means attractive), but luckily for us, these are rare on the TOEFL and you're learning about them here.
+
+
+Detail Strategy
+===============
+
+These questions ask you about facts from the information presented.
+
+Rely on your notes.
+
+1) Read the question & identify the keywords.
+2) Search that keywords in your notes
+3) Just answer. Consider only options mentioned close to the topic (in the lecture).
+
+
+Inference Strategy
+==================
+
+Inference questions contain strong clue words: infer, imply, or suggest.
+
+4) When you find the key word, remind yourself of the question and read carefully to find the answer for yourself. Again, make sure that you phrase a possible answer or two in your head before jumping to the next step and looking through the answer choices.
+5) Once you have identified a rough answer on your own, check the answer choices and choose the one that matches your anticipated answer best.
+6) If you don’t find the answer that you were looking for, keep asking yourself: what must be true from this information that my notes are referring to around the key words from the question.
+
+
+Attitude Strategy
+=================
+
+Similar to inference questions, these ask you to look at the way that information is presented to make a judgement on the person delivering the speech.Tone and inflection in the speakers voice can be a guide, but it rarely leads to the correct answer. Instead, be aware of adjectives, adverbs, and the overall direction of the lecture or conversation.
+
+
+4) When you find the key words, remind yourself of the question and scan your notes for adjectives and other words that indicate mood or feeling. Are there any words present that point to: criticism, neutrality, or support?
+5) Once you have thought up what you think is a good, rough answer, check the answer choices and choose the one that matches your anticipated answer best.
+
+
+Purpose Strategy
+================
+
+These questions contain words and expressions such as:
+
+* why does the professor mention
+* why does the professor say
+
+4) Remember the information you heard around these key words and understand that the purpose of our key word is to explain or expand on the information that came before. 
+5) Look for any words in your notes that will help you understand the connection between your key words and the words that came before in your notes: adverbs, questions, topic shifts, etc.
+6) Think of an answer on your own to the best of your ability. 
+7) Examine all of your answer choices and choose an answer choice that reflects your rough idea of the answer.
+
+
+There's only a few kinds of development that exist and they generally fall into one of the three categories below:
+
+ 
+
+* Support (it's true, consequently, of course)
+* Oppose (in contrast, however, on the other hand)
+* Further explain (what does this mean, to clarify, for example)
